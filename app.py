@@ -20,7 +20,7 @@ st.markdown("""
         margin: 0 auto;
     }
     .rank-card {
-        background-color: #1E1E1E;
+        background-color: #ffffff;
         border-radius: 15px;
         padding: 20px;
         box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
@@ -30,7 +30,7 @@ st.markdown("""
     }
     .rank-title {
         font-size: 1.0rem;
-        color: #AAAAAA;
+        color: #ffffff;
         letter-spacing: 2px;
     }
     .rank-name {
@@ -41,7 +41,7 @@ st.markdown("""
     }
     .rank-sub {
         font-size: 1.0rem;
-        color: #FFD700;
+        color: #ffffff;
         margin-bottom: 10px;
         font-weight: bold;
     }
@@ -51,7 +51,7 @@ st.markdown("""
         color: #ffffff;
     }
     .gacha-box {
-        background-color: #2b2b2b;
+        background-color: #ffffff;
         padding: 20px;
         border-radius: 10px;
         text-align: center;
