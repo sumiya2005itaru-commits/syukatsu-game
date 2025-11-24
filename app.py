@@ -20,7 +20,7 @@ st.markdown("""
         margin: 0 auto;
     }
     .rank-card {
-        background-color: #999999;
+        background-color: #ffffff;
         border-radius: 15px;
         padding: 20px;
         box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
